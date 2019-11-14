@@ -1,3 +1,4 @@
+
 ### 生信学习网站
 * [生信基础知识100讲](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247485662&idx=1&sn=e1b55e5bea539daed3e003b4f0d7e971&chksm=9b484865ac3fc1738e34591c248dd11abc6c934726d29ddc119dc2de56ed203d2a8229d392f1&mpshare=1&scene=23&srcid=0901w3a4PoJTmDJcYs4sxivh&sharer_sharetime=1567336344692&sharer_shareid=25ca153f74e64c7a2271bbe70a6875ec#rd)
 * [免费视频-生信自学网](https://www.biowolf.cn/Video/)
@@ -25,9 +26,9 @@
 * [Dash for R](https://dashr.plot.ly/utm_source=rbloggers&utm_medium=banner&utm_campaign=DashR)
 * [Shell编程快速入门](https://www.runoob.com/w3cnote/shell-quick-start.html)
 * [绘图APP](http://qplot.cn/indexapp/)
-* [每R一点：层次聚类分析实例实战-dist、hclust、heatmap等](https://www.cnblogs.com/payton/p/4240824.html)
+* [# [每R一点：层次聚类分析实例实战-dist、hclust、heatmap等](https://www.cnblogs.com/payton/p/4240824.html)
 ](https://www.cnblogs.com/payton/p/4240824.html)
-* [安静-不安静的博客](https://anjingwd.github.io/)
+* [[安静-不安静的博客](https://anjingwd.github.io/)
 ](https://anjingwd.github.io/AnJingwd.github.io/)
 * [Image 在线成图](http://www.ehbio.com/ImageGP/)
 * [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32/)
@@ -35,16 +36,21 @@
 * [王诗翔](https://www.jianshu.com/nb/22007361)
 * [data science](https://moiedotblog.wordpress.com/category/data-science/)
 * [R随笔](https://www.cnblogs.com/GMGHZ971322/p/?page=5)
-* [【R语言进行数据挖掘】决策树和随机森林](https://www.cnblogs.com/jpld/p/4868761.html)
+* [# [【R语言进行数据挖掘】决策树和随机森林](https://www.cnblogs.com/jpld/p/4868761.html)
 ](https://www.cnblogs.com/jpld/p/4868761.html)
 * [github王诗翔](https://github.com/ShixiangWang/masterR/tree/master/reference)
 * [诗翔的R语言学习之路](https://www.jianshu.com/c/f675dfc884de)
 * [Cookbook for R 中文版](https://openbiox.github.io/Cookbook-for-R-Chinese/ggplot2.html)
 * [使用GitHub](https://www.liaoxuefeng.com/wiki/896043488029600/900937935629664)
-### 组学数据分析
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [**[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)**
+](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+### 数据库
+###### 查找文献
+* [ GeenMedical
+](https://www.geenmedical.com/)
+* [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=)
+* [sci-hub](https://sci-hub.se/)
+* [Web of Science](http://apps.webofknowledge.com/home.do?SID=8ExU4MavWw2W33n7IXJ)
+* [5 个网站帮你选到 SCI 的投稿期刊！](https://www.jianshu.com/p/c45032b259a3?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)
+
+###### 以上资料源自互联网；资料整理人-天马星空；更多精彩，请扫描下方二维码![二维码.png](https://upload-images.jianshu.io/upload_images/2913076-9fe49f03a84f5004.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
