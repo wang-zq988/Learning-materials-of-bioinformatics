@@ -39,8 +39,7 @@
 * [诗翔的R语言学习之路](https://www.jianshu.com/c/f675dfc884de)
 * [Cookbook for R 中文版](https://openbiox.github.io/Cookbook-for-R-Chinese/ggplot2.html)
 * [使用GitHub](https://www.liaoxuefeng.com/wiki/896043488029600/900937935629664)
-* [**[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)**
-](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+* [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
 ### 数据库
 ###### 查找文献
 * [ GeenMedical
