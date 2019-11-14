@@ -49,4 +49,4 @@
 * [Web of Science](http://apps.webofknowledge.com/home.do?SID=8ExU4MavWw2W33n7IXJ)
 * [5 个网站帮你选到 SCI 的投稿期刊！](https://www.jianshu.com/p/c45032b259a3?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)
 
-###### 以上资料源自互联网；资料整理人-天马星空；更多精彩，请扫描下方二维码![二维码.png](https://upload-images.jianshu.io/upload_images/2913076-9fe49f03a84f5004.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### 以上资料源自互联网；资料整理人-天马星空；更多精彩，请扫描下方二维码![二维码.png](https://upload-images.jianshu.io/upload_images/2913076-9fe49f03a84f5004.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
