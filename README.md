@@ -26,9 +26,9 @@
 * [Dash for R](https://dashr.plot.ly/utm_source=rbloggers&utm_medium=banner&utm_campaign=DashR)
 * [Shell编程快速入门](https://www.runoob.com/w3cnote/shell-quick-start.html)
 * [绘图APP](http://qplot.cn/indexapp/)
-* [# [每R一点：层次聚类分析实例实战-dist、hclust、heatmap等](https://www.cnblogs.com/payton/p/4240824.html)
-](https://www.cnblogs.com/payton/p/4240824.html)
-* [[安静-不安静的博客](https://anjingwd.github.io/)
+* [每R一点：层次聚类分析实例实战-dist、hclust、heatmap等](https://www.cnblogs.com/payton/p/4240824.html)
+]
+* [安静-不安静的博客](https://anjingwd.github.io/)
 ](https://anjingwd.github.io/AnJingwd.github.io/)
 * [Image 在线成图](http://www.ehbio.com/ImageGP/)
 * [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32/)
