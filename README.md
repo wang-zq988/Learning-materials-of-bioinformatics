@@ -27,10 +27,7 @@
 * [Shell编程快速入门](https://www.runoob.com/w3cnote/shell-quick-start.html)
 * [绘图APP](http://qplot.cn/indexapp/)
 * [每R一点：层次聚类分析实例实战-dist、hclust、heatmap等](https://www.cnblogs.com/payton/p/4240824.html)
-]
 * [安静-不安静的博客](https://anjingwd.github.io/)
-]
-* [未知](https://anjingwd.github.io/AnJingwd.github.io/)
 * [Image 在线成图](http://www.ehbio.com/ImageGP/)
 * [Markdown——入门指南](https://www.jianshu.com/p/1e402922ee32/)
 * [【SCI写作】小助手工具篇--翻译](https://mp.weixin.qq.com/s?__biz=MzIwNTEwMTUyOQ==&mid=2649695254&idx=1&sn=5fa5646ee448c89911abeb2245c20082&chksm=8f2d84a0b85a0db69523727a9e6c5809755e40ff4066787a4b041076f4be376523323aa3f17d&mpshare=1&scene=23&srcid=1027AHq92pxpmlTbjgQrdGFh&sharer_sharetime=1572181523986&sharer_shareid=25ca153f74e64c7a2271bbe70a6875ec#rd)
@@ -38,7 +35,6 @@
 * [data science](https://moiedotblog.wordpress.com/category/data-science/)
 * [R随笔](https://www.cnblogs.com/GMGHZ971322/p/?page=5)
 * [【R语言进行数据挖掘】决策树和随机森林](https://www.cnblogs.com/jpld/p/4868761.html)
-]
 * [github王诗翔](https://github.com/ShixiangWang/masterR/tree/master/reference)
 * [诗翔的R语言学习之路](https://www.jianshu.com/c/f675dfc884de)
 * [Cookbook for R 中文版](https://openbiox.github.io/Cookbook-for-R-Chinese/ggplot2.html)
