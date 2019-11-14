@@ -36,8 +36,8 @@
 * [王诗翔](https://www.jianshu.com/nb/22007361)
 * [data science](https://moiedotblog.wordpress.com/category/data-science/)
 * [R随笔](https://www.cnblogs.com/GMGHZ971322/p/?page=5)
-* [# [【R语言进行数据挖掘】决策树和随机森林](https://www.cnblogs.com/jpld/p/4868761.html)
-](https://www.cnblogs.com/jpld/p/4868761.html)
+* [【R语言进行数据挖掘】决策树和随机森林](https://www.cnblogs.com/jpld/p/4868761.html)
+]
 * [github王诗翔](https://github.com/ShixiangWang/masterR/tree/master/reference)
 * [诗翔的R语言学习之路](https://www.jianshu.com/c/f675dfc884de)
 * [Cookbook for R 中文版](https://openbiox.github.io/Cookbook-for-R-Chinese/ggplot2.html)
