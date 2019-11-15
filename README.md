@@ -40,6 +40,7 @@
 * [Cookbook for R 中文版](https://openbiox.github.io/Cookbook-for-R-Chinese/ggplot2.html)
 * [使用GitHub](https://www.liaoxuefeng.com/wiki/896043488029600/900937935629664)
 * [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+* [STHDA-R可视化](http://www.sthda.com/english/)
 ### 数据库
 * [ GeenMedical
 ](https://www.geenmedical.com/)
