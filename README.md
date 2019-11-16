@@ -50,6 +50,7 @@
 * [sci-hub](https://sci-hub.se/)
 * [Web of Science](http://apps.webofknowledge.com/home.do?SID=8ExU4MavWw2W33n7IXJ)
 * [5 个网站帮你选到 SCI 的投稿期刊！](https://www.jianshu.com/p/c45032b259a3?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)
+
 #经典书籍及文章
 ###书籍
 * 《人性的弱点》 
