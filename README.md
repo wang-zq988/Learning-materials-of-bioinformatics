@@ -7,6 +7,7 @@
 * [生信技能树](https://vip.biotrainee.com/t/learning)
 * [生信人](https://shengxin.ren/)
 ### 简书、博客等
+* [如何快速学习生物信息学](https://www.jianshu.com/p/367b2a14f046)
 * [悦时光-简书](https://www.jianshu.com/u/9bc29de5db34)
 * [安静-不安静的博客](https://anjingwd.github.io/)
 * [王诗翔](https://www.jianshu.com/nb/22007361)
