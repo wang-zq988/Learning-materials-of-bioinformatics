@@ -66,4 +66,3 @@
 * 《领导力21法则》
 * 《曾国藩》
 * 《毛泽东选集》
-### 以上资料源自互联网；资料整理人-天马星空；更多精彩，请扫描下方二维码![二维码.png](https://upload-images.jianshu.io/upload_images/2913076-9fe49f03a84f5004.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
