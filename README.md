@@ -1,5 +1,5 @@
  
-Here are some bioinformatics studies and books I've read,
+ Here's some information about bioinformatics and books I've read, I hope this information can help you。
 
 # 生信资料
 ### 生信学习网站
