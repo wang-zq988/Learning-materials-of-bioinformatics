@@ -1,3 +1,6 @@
+ 
+Here are some bioinformatics studies and books I've read,
+
 # 生信资料
 ### 生信学习网站
 * [生信基础知识100讲](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247485662&idx=1&sn=e1b55e5bea539daed3e003b4f0d7e971&chksm=9b484865ac3fc1738e34591c248dd11abc6c934726d29ddc119dc2de56ed203d2a8229d392f1&mpshare=1&scene=23&srcid=0901w3a4PoJTmDJcYs4sxivh&sharer_sharetime=1567336344692&sharer_shareid=25ca153f74e64c7a2271bbe70a6875ec#rd)
