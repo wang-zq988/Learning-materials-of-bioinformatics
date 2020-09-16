@@ -83,18 +83,14 @@
 
 [samtools的安装和使用](https://www.jianshu.com/p/6b7a442d293f)
 
-##galaxy
-https://galaxyproject.org/learn/
+[galaxy](https://galaxyproject.org/learn/)
 
-## Liunx
-https://www.jb51.net/article/56563.htm
+[Liunx](https://www.jb51.net/article/56563.htm)
 
-## 博客
-http://www.360doc.com/userhome.aspx?userid=42030643
+[博客](http://www.360doc.com/userhome.aspx?userid=42030643)
 
 ## samtools view
-* flag
-https://blog.csdn.net/weixin_44452187/article/details/87854926
+[flag](https://blog.csdn.net/weixin_44452187/article/details/87854926)
 
 ## samtools flagstat
 https://www.jianshu.com/p/b8fe6eaa35bf
@@ -119,3 +115,11 @@ https://www.omicsclass.com/article/241
 * 《领导力21法则》
 * 《曾国藩》
 * 《毛泽东选集》
+* 《狼道》
+* 《当我跑步时，我谈些什么》
+* 《人心至上：杜月笙》
+* 《从0到1：开启商业的秘密》
+* 《华为工作法》
+* 《黄昏里的男孩》
+* 《让大象飞》
+* 《经营战略MBA轻松版》
