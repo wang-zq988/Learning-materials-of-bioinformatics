@@ -54,6 +54,56 @@
 * [sci-hub](https://sci-hub.se/)
 * [Web of Science](http://apps.webofknowledge.com/home.do?SID=8ExU4MavWw2W33n7IXJ)
 * [5 个网站帮你选到 SCI 的投稿期刊！](https://www.jianshu.com/p/c45032b259a3?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq)
+
+
+[【生物大数据】统计方法在生物信息学“精细定位”（fine-mapping）中的应用](https://cloud.tencent.com/developer/article/1085394)
+
+
+---
+## 基因型填充
+[基因型填充(Genotype-Imputation)：从原理到操作](https://www.jianshu.com/p/a2fd81f79f1b)
+
+[基因型填充是怎么回事？](http://www.360doc.com/content/18/0112/03/50153987_721216942.shtml)
+
+[缺失基因型填充](https://www.jianshu.com/p/ec1e394f2df1)
+
+[GWAS: 网页版的基因型填充（genotypeimputation）](https://www.cnblogs.com/chenwenyan/p/10830207.html)
+
+[最大参考序列集助力基因型推断](http://www.360doc.com/content/18/1215/09/52645714_801918168.shtml)
+
+## 测序
+[WGS学习笔记](http://www.360doc.com/content/19/0624/17/59806139_844576007.shtml)
+
+[缺失基因型填充](https://www.jianshu.com/p/ec1e394f2df1)
+
+[CHIP-seq的input](http://www.seqhealth.cn/view/70.html)
+
+## 生信软件
+[conda管理生信软件一文就够](https://mp.weixin.qq.com/s/vhSpEoIkYP5Hky0lnyGVvQ)
+
+[samtools的安装和使用](https://www.jianshu.com/p/6b7a442d293f)
+
+##galaxy
+https://galaxyproject.org/learn/
+
+## Liunx
+https://www.jb51.net/article/56563.htm
+
+## 博客
+http://www.360doc.com/userhome.aspx?userid=42030643
+
+## samtools view
+* flag
+https://blog.csdn.net/weixin_44452187/article/details/87854926
+
+## samtools flagstat
+https://www.jianshu.com/p/b8fe6eaa35bf
+https://www.codeleading.com/article/1111667975/
+https://www.omicsclass.com/article/241
+
+## 找启动子
+
+[一文教会你查找基因的启动子、UTR、TSS等区域以及预测转录因子结合位点](https://cloud.tencent.com/developer/article/1189476)
 # 经典书籍及文章
 ### 书籍
 * 《人性的弱点》 
